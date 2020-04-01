@@ -3,8 +3,7 @@ import React from 'react';
 
 const GameGrid = ({ attempts }) => {
     return <div>
-        <hr />
-        <table style={{ margin: `0 auto` }}>
+        <table border="1" style={{ borderCollapse: `collapse`, margin: `0 auto` }}>
             <thead>
                 <tr>
                     <td>Attempt</td>
