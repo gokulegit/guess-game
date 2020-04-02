@@ -19,7 +19,7 @@ const Row = ({ start, end, onClick, hs = start, he = end }) => {
                                     ? val === parseInt((hs + he) / 2)
                                         ? "green"
                                         : "blue"
-                                    : "black"
+                                    : "gray"
                             }`
                         }}
                         key={index}
