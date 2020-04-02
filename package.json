@@ -1,5 +1,5 @@
 {
-    "name": "day02-lab01",
+    "name": "simple-guess-game",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -11,7 +11,7 @@
         "react-scripts": "3.4.1"
     },
     "engines": {
-        "node": "12.14.0",
+        "node": "10.16.0",
         "npm": "6.13.4"
     },
     "scripts": {
